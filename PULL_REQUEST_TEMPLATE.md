@@ -8,9 +8,9 @@ Please fill out the information below to expedite the review and (hopefully) mer
 
 ## Summary
 
-<!-- What changes are being made? -->
+### What changes are being made?
 
-<!-- Why are these changes necessary? -->
+### Why are these changes necessary?
 
 <!-- How were these changes implemented? -->
 

@@ -48,11 +48,16 @@ Issues that don't have enough info and can't be reproduced will be closed.
 
 ## 🌍  Your Environment
 
-**Core Version:**
+**Package Version:**
 <pre><code>
 <!-- ✍️-->
-
 </code></pre>
+
+**ARK CORE Version:**
+<pre><code>
+<!-- ✍️-->
+</code></pre>
+
 
 **Anything else relevant?**
 <!-- ✍️Do any of these matter: operating system, IDE, package manager, HTTP server, ...? If so, please mention it below. -->
